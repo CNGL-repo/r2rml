@@ -1,8 +1,7 @@
 # R2RML Implementation
 
-<div class="alert alert-info" role="alert">
-Watch out! This repository has been moved to <a href="https://opengogs.adaptcentre.ie/debruync/r2rml">https://opengogs.adaptcentre.ie/debruync/r2rml</a> and is no longer maintained on GitHub. 
-</div>
+| Attention! |
+|This repository has been moved to [https://opengogs.adaptcentre.ie/debruync/r2rml](https://opengogs.adaptcentre.ie/debruync/r2rml) and is no longer maintained on GitHub.|
 
 ## Building and using the code
 
