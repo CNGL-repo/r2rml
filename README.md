@@ -2,7 +2,7 @@
 
 | Attention!                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| This repository has been moved to [https://opengogs.adaptcentre.ie/debruync/r2rml](https://opengogs.adaptcentre.ie/debruync/r2rml) and is no longer maintained on GitHub. |
+| This repository has been moved to [https://opengogs.adaptcentre.ie/debruync/r2rml](https://opengogs.adaptcentre.ie/debruync/r2rml) and is no longer maintained on GitHub. Note that the repository on opengogs is a copy of [https://github.com/chrdebru/r2rml](https://github.com/chrdebru/r2rml). If you want to contribute to the project, you may want to consider the repository on GitHub instead.|
 
 ## Building and using the code
 
